@@ -6,6 +6,7 @@ usage:
 
     python3 cp.py filename filename2
 
+or
 
     python3 cp.py -h
 
